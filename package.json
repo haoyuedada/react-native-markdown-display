@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-oh-tpl/react-native-markdown-display",
-  "version": "7.0.2-0.0.1",
+  "name": "@react-native-ohos/react-native-markdown-display",
+  "version": "7.0.3",
   "description": "Markdown renderer for react-native, with CommonMark spec support + adds syntax extensions & sugar (URL autolinking, typographer), originally created by Mient-jan Stelling as react-native-markdown-renderer",
   "types": "src/index.d.ts",
   "main": "lib/commonjs/index",
